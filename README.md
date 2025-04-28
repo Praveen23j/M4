@@ -10,7 +10,7 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
-```c
+```
 #include <stdio.h>
 
 int main() {
